@@ -22,10 +22,10 @@ async function renderUsers() {
 
   users.forEach((user) => {
     let htmlSegment = `<div class="user">
-                            <img src="${user.profileURL}">
+                            <img src="${user.profileURL}" class="myImage">
                             <h2>${user.firstName} ${user.lastName}</h2>
                             <div class="email">
-                                <a href="email:${user.email}">${user.email}</a>
+                                <a href="email:${user.email}" class="userEmail">${user.email}</a>
                             </div>
                         </div>`;
 

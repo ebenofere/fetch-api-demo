@@ -1,7 +1,7 @@
 [{
-    "username": "john",
-    "firstName": "John",
-    "lastName": "Doe",
+    "username": "miketodd",
+    "firstName": "Mike",
+    "lastName": "Todd",
     "gender": "Male",
     "profileURL": "https://res.cloudinary.com/ebenofere/image/upload/v1657585617/profilepic_1_bpl69j.jpg",
     "email": "john.doe@example.com"
